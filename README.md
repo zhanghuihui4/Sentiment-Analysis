@@ -32,6 +32,8 @@ An overview of methods that have been applied in business domain for sentiment a
     
 - # Major sentiment analysis methods
   - **Lexicon-based**
+    Sentiment score = (number of positive words - number of negative words)/total number of words  
+    
   - **Rule-based**
   - **Machine learning-based**
   - **Deep learning-based**
